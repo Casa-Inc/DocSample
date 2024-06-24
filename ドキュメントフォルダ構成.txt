@@ -1,72 +1,80 @@
-—v‹’è‹`
-„¤—v‹’è‹`‘
+è¦æ±‚å®šç¾©
+â””è¦æ±‚å®šç¾©æ›¸_<Backlogç•ªå·>.xlsx
 
-—vŒ’è‹`
-„¤—vŒ’è‹`‘
 
-Šî–{ÝŒv
-„¥ER}
-„¥ƒe[ƒuƒ‹’è‹`‘
-„¥‰æ–Ê‘JˆÚ}
-„¥‰æ–ÊŽd—l‘(ƒtƒHƒ‹ƒ_j
-„ „¤‰æ–Ê’PˆÊ
-„¥’ •[Žd—l‘(ƒtƒHƒ‹ƒ_j
-„ „¤’ •[’PˆÊ
-„¥ƒoƒbƒ`Žd—l‘(ƒtƒHƒ‹ƒ_j
-„ „¤ƒoƒbƒ`’PˆÊ
-„¥I/FŽd—l‘
-„¥IOŠÖ˜A}
-„¥‹@Ší\¬}
-„¥‰^—pÝŒv‘
-„¤ŠJ”­•ûjAƒR[ƒfƒBƒ“ƒOƒ‹[ƒ‹
+è¦ä»¶å®šç¾©
+â””è¦ä»¶å®šç¾©æ›¸_<Backlogç•ªå·>.xlsx
 
-Ú×ÝŒv
-„¥Ú×ÝŒv‘iƒtƒHƒ‹ƒ_j
-„ „¤‹@”\’PˆÊ
-„¤ƒV[ƒPƒ“ƒX}iƒtƒHƒ‹ƒ_j
-@„¤‹@”\’PˆÊ
 
-’P‘ÌƒeƒXƒg
-„¥’P‘ÌƒeƒXƒgŽd—l‘EŒ‹‰Ê•ñ‘iƒtƒHƒ‹ƒ_j
-„ „¤‹@”\’PˆÊ
-„¤’P‘ÌƒeƒXƒgŽÀŽ{ƒGƒrƒfƒ“ƒX
-@„¥‹@”\’PˆÊ
-@„¥YYYYMMDD or Backlog”Ô†iƒtƒHƒ‹ƒ_j
-@„¥„¤‹@”\’PˆÊ
-@„¤YYYYMMDD or Backlog”Ô†iƒtƒHƒ‹ƒ_j
-@@„¤‹@”\’PˆÊ
+åŸºæœ¬è¨­è¨ˆ
+â”œERå›³.xlsx
+â”œãƒ†ãƒ¼ãƒ–ãƒ«å®šç¾©æ›¸.xlsx
+â”œç”»é¢é·ç§»å›³.xlsx
+â”œç”»é¢ä»•æ§˜æ›¸
+â”‚â””ç”»é¢ä»•æ§˜æ›¸_<æ©Ÿèƒ½å>.xlsx
+â”œå¸³ç¥¨ä»•æ§˜æ›¸
+â”‚â””å¸³ç¥¨ä»•æ§˜æ›¸_<æ©Ÿèƒ½å>.xlsx
+â”œãƒãƒƒãƒä»•æ§˜æ›¸
+â”‚â””ãƒãƒƒãƒä»•æ§˜æ›¸_<æ©Ÿèƒ½å>.xlsx
+â”œI/Fä»•æ§˜æ›¸.xlsx
+â”œIOé–¢é€£å›³.xlsx
+â”œæ©Ÿå™¨æ§‹æˆå›³.xlsx
+â”œé‹ç”¨è¨­è¨ˆæ›¸.xlsx
+â””é–‹ç™ºæ–¹é‡ãƒ»ã‚³ãƒ¼ãƒ‡ã‚£ãƒ³ã‚°ãƒ«ãƒ¼ãƒ«.xlsx
 
-Œ‹‡ƒeƒXƒg
-„¥Œ‹‡ƒeƒXƒgŽd—l‘EŒ‹‰Ê•ñ‘iƒtƒHƒ‹ƒ_j
-„ „¤‹@”\’PˆÊ
-„¤Œ‹‡ƒeƒXƒgŽÀŽ{ƒGƒrƒfƒ“ƒX
-@„¥‹@”\’PˆÊ
-@„¥YYYYMMDD or Backlog”Ô†iƒtƒHƒ‹ƒ_j
-@„¥„¤‹@”\’PˆÊ
-@„¤YYYYMMDD or Backlog”Ô†iƒtƒHƒ‹ƒ_j
-@@„¤‹@”\’PˆÊ
 
-‘‡ƒeƒXƒg
-„¥‘‡ƒeƒXƒgŽd—l‘EŒ‹‰Ê•ñ‘iƒtƒHƒ‹ƒ_j
-„ „¤‹@”\’PˆÊ
-„¤‘‡ƒeƒXƒgŽÀŽ{ƒGƒrƒfƒ“ƒX
-@„¥‹@”\’PˆÊ
-@„¥YYYYMMDD or Backlog”Ô†iƒtƒHƒ‹ƒ_j
-@„¥„¤‹@”\’PˆÊ
-@„¤YYYYMMDD or Backlog”Ô†iƒtƒHƒ‹ƒ_j
-@@„¤‹@”\’PˆÊ
+è©³ç´°è¨­è¨ˆ
+â”œè©³ç´°è¨­è¨ˆæ›¸
+â”‚â””è©³ç´°è¨­è¨ˆæ›¸_<æ©Ÿèƒ½å>.xlsx
+â””ã‚·ãƒ¼ã‚±ãƒ³ã‚¹å›³
+ã€€â””ã‚·ãƒ¼ã‚±ãƒ³ã‚¹å›³_<æ©Ÿèƒ½å>.xlsx
 
-Žó“üƒeƒXƒg
-„¥Žó“üƒeƒXƒgŒv‰æ‘@¦—v‹’è‹`‘’PˆÊ
-„¤Žó“üƒeƒXƒgŽd—l‘iƒtƒHƒ‹ƒ_j
-@„¤‹@”\’PˆÊ
 
-ƒŠƒŠ[ƒX
-„¥ƒŠƒŠ[ƒXŒv‰æ‘iƒtƒHƒ‹ƒ_j
-„ „¤—vŒ’è‹`‘’PˆÊ
-„¥ƒŠƒŠ[ƒXŽè‡‘
-„¤ƒŠƒŠ[ƒXƒm[ƒg
+å˜ä½“ãƒ†ã‚¹ãƒˆ
+â”œå˜ä½“ãƒ†ã‚¹ãƒˆä»•æ§˜æ›¸ãƒ»çµæžœå ±å‘Šæ›¸
+â”‚â””<Backlogç•ªå·>
+â”‚ã€€â””å˜ä½“ãƒ†ã‚¹ãƒˆä»•æ§˜æ›¸ãƒ»çµæžœå ±å‘Šæ›¸_<æ©Ÿèƒ½å>.xlsx
+â””å˜ä½“ãƒ†ã‚¹ãƒˆå®Ÿæ–½ã‚¨ãƒ“ãƒ‡ãƒ³ã‚¹
+ã€€â””<Backlogç•ªå·>
+  ã€€â””å˜ä½“ãƒ†ã‚¹ãƒˆä»•æ§˜æ›¸ãƒ»çµæžœå ±å‘Šæ›¸_<æ©Ÿèƒ½å>.xlsx
 
-‚»‚Ì‘¼
-„¥ƒVƒXƒeƒ€‘€ìƒ}ƒjƒ…ƒAƒ‹iƒtƒHƒ‹ƒ_j
-„¤ƒVƒXƒeƒ€‰^—pƒ}ƒjƒ…ƒAƒ‹iƒtƒHƒ‹ƒ_j
+
+çµåˆãƒ†ã‚¹ãƒˆ
+â”œçµåˆãƒ†ã‚¹ãƒˆè¨ˆç”»æ›¸
+â”‚â””çµåˆãƒ†ã‚¹ãƒˆè¨ˆç”»æ›¸_<Backlogç•ªå·>.xlsx
+â”œçµåˆãƒ†ã‚¹ãƒˆä»•æ§˜æ›¸ãƒ»çµæžœå ±å‘Šæ›¸
+â”‚â””çµåˆãƒ†ã‚¹ãƒˆä»•æ§˜æ›¸ãƒ»çµæžœå ±å‘Šæ›¸_<Backlogç•ªå·>.xlsx
+â””çµåˆãƒ†ã‚¹ãƒˆå®Ÿæ–½ã‚¨ãƒ“ãƒ‡ãƒ³ã‚¹
+ã€€â””çµåˆãƒ†ã‚¹ãƒˆå®Ÿæ–½ã‚¨ãƒ“ãƒ‡ãƒ³ã‚¹_<Backlogç•ªå·>.xlsx
+
+
+ç·åˆãƒ†ã‚¹ãƒˆ
+â”œç·åˆãƒ†ã‚¹ãƒˆè¨ˆç”»æ›¸
+â”‚â””ç·åˆãƒ†ã‚¹ãƒˆè¨ˆç”»æ›¸_<Backlogç•ªå·>.xlsx
+â”œç·åˆãƒ†ã‚¹ãƒˆä»•æ§˜æ›¸ãƒ»çµæžœå ±å‘Šæ›¸
+â”‚â””ç·åˆãƒ†ã‚¹ãƒˆä»•æ§˜æ›¸ãƒ»çµæžœå ±å‘Šæ›¸_<Backlogç•ªå·>.xlsx
+â””ç·åˆãƒ†ã‚¹ãƒˆå®Ÿæ–½ã‚¨ãƒ“ãƒ‡ãƒ³ã‚¹
+ã€€â””ç·åˆãƒ†ã‚¹ãƒˆå®Ÿæ–½ã‚¨ãƒ“ãƒ‡ãƒ³ã‚¹_<Backlogç•ªå·>.xlsx
+
+
+å—å…¥ãƒ†ã‚¹ãƒˆ
+â”œå—å…¥ãƒ†ã‚¹ãƒˆè¨ˆç”»æ›¸
+â”‚â””å—å…¥ãƒ†ã‚¹ãƒˆè¨ˆç”»æ›¸_<Backlogç•ªå·>.xlsx
+â””å—å…¥ãƒ†ã‚¹ãƒˆä»•æ§˜æ›¸
+ã€€â””å—å…¥ãƒ†ã‚¹ãƒˆä»•æ§˜æ›¸_<Backlogç•ªå·>.xlsx
+
+
+ãƒªãƒªãƒ¼ã‚¹
+â”œãƒªãƒªãƒ¼ã‚¹è¨ˆç”»æ›¸
+â”‚â””ãƒªãƒªãƒ¼ã‚¹è¨ˆç”»æ›¸_<Backlogç•ªå·>.xlsx
+â”œãƒªãƒªãƒ¼ã‚¹æ‰‹é †æ›¸
+â”‚â””ãƒªãƒªãƒ¼ã‚¹æ‰‹é †æ›¸_<Backlogç•ªå·>.xlsx
+â””ãƒªãƒªãƒ¼ã‚¹ãƒŽãƒ¼ãƒˆ.xlsx
+
+
+ãã®ä»–
+â”œã‚·ã‚¹ãƒ†ãƒ æ“ä½œãƒžãƒ‹ãƒ¥ã‚¢ãƒ«
+â”‚â””<æ“ä½œå>.xlsx
+â””ã‚·ã‚¹ãƒ†ãƒ é‹ç”¨ãƒžãƒ‹ãƒ¥ã‚¢ãƒ«
+ã€€â””<é‹ç”¨å>.xlsx
+ã€€

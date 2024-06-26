@@ -1,9 +1,7 @@
-Œ‹‡ƒeƒXƒg
-„¥Œ‹‡ƒeƒXƒgŽd—l‘EŒ‹‰Ê•ñ‘iƒtƒHƒ‹ƒ_j
-„ „¤‹@”\’PˆÊ
-„¤Œ‹‡ƒeƒXƒgŽÀŽ{ƒGƒrƒfƒ“ƒX
-@„¥‹@”\’PˆÊ
-@„¥YYYYMMDD or Backlog”Ô†iƒtƒHƒ‹ƒ_j
-@„¥„¤‹@”\’PˆÊ
-@„¤YYYYMMDD or Backlog”Ô†iƒtƒHƒ‹ƒ_j
-@@„¤‹@”\’PˆÊ
+çµåˆãƒ†ã‚¹ãƒˆ
+â”œçµåˆãƒ†ã‚¹ãƒˆè¨ˆç”»æ›¸
+â”‚â””çµåˆãƒ†ã‚¹ãƒˆè¨ˆç”»æ›¸_<Backlogç•ªå·>.xlsx
+â”œçµåˆãƒ†ã‚¹ãƒˆä»•æ§˜æ›¸ãƒ»çµæžœå ±å‘Šæ›¸
+â”‚â””çµåˆãƒ†ã‚¹ãƒˆä»•æ§˜æ›¸ãƒ»çµæžœå ±å‘Šæ›¸_<Backlogç•ªå·>.xlsx
+â””çµåˆãƒ†ã‚¹ãƒˆå®Ÿæ–½ã‚¨ãƒ“ãƒ‡ãƒ³ã‚¹
+ã€€â””çµåˆãƒ†ã‚¹ãƒˆå®Ÿæ–½ã‚¨ãƒ“ãƒ‡ãƒ³ã‚¹_<Backlogç•ªå·>.xlsx
